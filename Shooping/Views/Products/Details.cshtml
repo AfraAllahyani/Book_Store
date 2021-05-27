@@ -1,0 +1,28 @@
+﻿@{
+    var item = (ProductModel)ViewData["product"];
+    Layout = "_LayoutWeb";
+}
+<div class="container">
+    <h2> Book you are looking for is</h2>
+    <table class="table">
+        <thead>
+            <tr>
+            <tr class="table-info">
+                <th scope="col">id</th>
+                <th scope="col">Cover</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">@item.id</th>
+                <td><img style="width:200px;height:350px" src="@item.img" alt="@item.img" /></td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td><a href="/Products/"><button type="button" class="btn btn-info" ">Back</button></a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

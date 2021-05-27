@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C77D6A30-E1C0-456E-B63E-5C253C462812}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shooping/Views/Products/Details.cshtml">
+    <Files>
+      <File FileName="Shooping/Controllers/ProductsController.cs" Line="32" Column="57" />
+      <File FileName="Shooping/Views/Products/Details.cshtml" Line="6" Column="37" />
+      <File FileName="Shooping/Views/Products/Index.cshtml" Line="9" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shopping" expanded="True" selected="True">
+            <Node name="Shooping" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Shooping PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
